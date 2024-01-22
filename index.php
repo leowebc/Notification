@@ -3,7 +3,7 @@
 require  __DIR__ . "/lib_ext/autoload.php";
 
 
-use Notification\Email\Email;
+use Notification\Email;
 
 
 $novoEmail = new \Notification\Email();
